@@ -1,2 +1,2 @@
 # data-analyst
-This is a repo for traine my skills in data analysis
+repositório de estudo para construção de conhecimento em data analyst. 
